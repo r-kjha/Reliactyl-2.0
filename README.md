@@ -25,7 +25,7 @@
 `sudo apt install mariadb-server`<br>
 `sudo mysql_secure_installation`<br>
 `npm -v`<br>
-`git clone https://github.com/Reliactyl/Reliactyl.git`<br>
+`git clone https://github.com/reliactyldev/Reliactyl-2.0.git`<br>
 `cd Reliactyl`<br>
 `cp settings-template.yml settings.yml` <br>
 `sudo nano settings.yml` and type all require settings<br>

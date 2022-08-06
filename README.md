@@ -43,7 +43,7 @@ mysql -u root -p
 
 CREATE USER 'dashboard'@'%' IDENTIFIED BY 'YourPasswordHere';
 CREATE DATABASE reliactyl;
-GRANT ALL PRIVILEGES ON dashactyl.\* TO 'dashboard'@'%' WITH GRANT OPTION;
+GRANT ALL PRIVILEGES ON dashactyl.* TO 'dashboard'@'%' WITH GRANT OPTION;
 quit;
 
 ```
